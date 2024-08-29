@@ -2,12 +2,12 @@
 <h3 align="center">Crafting Code, Designing Dreams: Where Aesthetics Meet Innovation on the Web</h3>
 
 
-<div style="display:flex;justify-content:space-evenly; align-items:center;">
+<div style="display:flex; align-items:center;">
   <div>
 <h2>💫 About Me:</h2>
 <p></p>🔭 I’m currently crafting pixel-perfect interfaces that blend beauty with performance.  <br>👯 I’m looking to collaborate on innovative projects that push the boundaries of web design.  <br>🤝 I’m looking for help with fine-tuning the ultimate user experience—let's optimize together!  <br>🌱 I’m currently mastering the art of micro-interactions to make every click feel like magic.  <br>💬 Ask me about the latest in web design trends or how to make CSS do backflips!  <br>⚡ Fun fact: I can turn a cup of coffee into a fully responsive website in no time!</p>
 </div>
- <img src="https://dayatech.us/images/resource/website-development.gif" alt="aadiprakash133" width="500px" height="400px" style="float:left;" /> 
+ <img src="https://dayatech.us/images/resource/website-development.gif" alt="aadiprakash133" width="400px" height="400px" style="float:right;" /> 
 
 
 </div>
