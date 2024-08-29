@@ -1,7 +1,7 @@
 <h1 align="center">Hey There! 👋🏻 Aadi Prakash</h1>
 <h3 align="center">Crafting Code, Designing Dreams: Where Aesthetics Meet Innovation on the Web</h3>
 
-<p align="left"> <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/web-development-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-programming-picanto-pack-people-animations-6983184.mp4" alt="aadiprakash133" /> 
+<p align="left"> <img src="https://dayatech.us/images/resource/website-development.gif" alt="aadiprakash133" /> 
 </p>
 
 
