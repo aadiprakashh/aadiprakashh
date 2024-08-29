@@ -1,7 +1,7 @@
 <h1 align="center">Hey There! 👋🏻 Aadi Prakash</h1>
 <h3 align="center">Crafting Code, Designing Dreams: Where Aesthetics Meet Innovation on the Web</h3>
 
-<p align="left"> <img src="https://pin.it/71NQ9gm9a" alt="aadiprakash133" /> 
+<p align="left"> <img src="https://programminginsider.com/wp-content/uploads/2023/10/techies.gif" alt="aadiprakash133" /> 
 </p>
 
 # 💫 About Me:
