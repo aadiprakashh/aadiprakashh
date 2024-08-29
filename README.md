@@ -1,7 +1,8 @@
 <h1 align="center">Hey There! 👋🏻 Aadi Prakash</h1>
 <h3 align="center">Crafting Code, Designing Dreams: Where Aesthetics Meet Innovation on the Web</h3>
 
-<p align="left"> <img src="https://pixabay.com/illustrations/developer-programmer-coding-8764523/" alt="aadiprakash133" /> </p>
+<p align="left"> <img src="https://pin.it/71NQ9gm9a" alt="aadiprakash133" /> 
+</p>
 
 # 💫 About Me:
 🔭 I’m currently crafting pixel-perfect interfaces that blend beauty with performance.  <br>👯 I’m looking to collaborate on innovative projects that push the boundaries of web design.  <br>🤝 I’m looking for help with fine-tuning the ultimate user experience—let's optimize together!  <br>🌱 I’m currently mastering the art of micro-interactions to make every click feel like magic.  <br>💬 Ask me about the latest in web design trends or how to make CSS do backflips!  <br>⚡ Fun fact: I can turn a cup of coffee into a fully responsive website in no time!
