@@ -1,4 +1,4 @@
-<h1 align="center">Hey There! 👋🏻 Aadi Prakash</h1>
+<h1 align="center">👋🏻 Hey Aadi Prakash Here!</h1>
 <h3 align="center">Crafting Code, Designing Dreams: Where Aesthetics Meet Innovation on the Web</h3>
 
 
