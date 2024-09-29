@@ -11,7 +11,7 @@
     🌱 I’m currently mastering the art of micro-interactions to make every click feel like magic. <br>
     💬 Ask me about the latest in web design trends or how to make CSS do backflips! <br>
     ⚡ Fun fact: I can turn a cup of coffee into a fully responsive website in no time!</p> 
-    <h3>Website:</h3> https://aadiprakashh.github.io/Portfolio/<br>
+    <p><strong>Website:</strong> https://aadiprakashh.github.io/Portfolio/</p>
   </div>
   <img src="https://dayatech.us/images/resource/website-development.gif" alt="aadiprakash133" width="400" height="400" style="flex-shrink: 0;">
 </div>
