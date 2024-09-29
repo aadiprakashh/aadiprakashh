@@ -4,7 +4,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="width: 400px; padding-right: 20px;">
-    <div><h2>💫 About Me:</h2><p><strong>Website:</strong> https://aadiprakashh.github.io/Portfolio/</p></div>
+   <h2>💫 About Me:</h2>
     <p>🔭 I’m currently crafting pixel-perfect interfaces that blend beauty with performance. <br>
     👯 I’m looking to collaborate on innovative projects that push the boundaries of web design. <br>
     🤝 I’m looking for help with fine-tuning the ultimate user experience—let's optimize together! <br>
