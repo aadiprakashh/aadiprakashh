@@ -15,7 +15,7 @@
   </div>
   <img src="https://dayatech.us/images/resource/website-development.gif" alt="aadiprakash133" width="400" height="400" style="flex-shrink: 0;">
 </div>
----
+
 
 <br>
 <h3 align="left">Connect with me:</h3>
